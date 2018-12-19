@@ -2,6 +2,12 @@
 
 COSMO is a variant of Boltzmann Machines that is used for contextualized scene modeling. It extends Boltzmann Machines by adding relation and affordance nodes between visible nodes. You can see the [web page](https://bozcani.github.io/COSMO/) and the [paper](https://arxiv.org/abs/1807.00511).
 
+<p align="center">
+<img src="https://bozcani.github.io/COSMO_files/overview.png" alt="(a) An overview of the proposed model COSMO, where the tri-way edges are shown in red, and (b) some examples for what it can provide to a robot" height="250"/>
+<figcaption> (a) An overview of the proposed model COSMO, where the tri-way edges are shown in red, and (b) some examples for what it can provide to a robot</figcaption>
+</p>
+
+
 
 # Introduction
 
@@ -65,3 +71,7 @@ python experiment_test.py
 # References
 
 [COSMO: Contextualized Scene Modeling with Boltzmann Machines](http://www.kovan.ceng.metu.edu.tr/~ilker/publications/BozcanKalkan2018_COSMO.pdf). İlker Bozcan, Sinan Kalkan, submitted to the Robotics and Autonomous Systems (RAS) special issue on Semantic Policy and Action Representations for Autonomous Robots (SPAR), 2018.
+
+
+## Video
+[![](https://img.youtube.com/vi/yTtjrlUBAhA/0.jpg)](https://www.youtube.com/embed/yTtjrlUBAhA)
